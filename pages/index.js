@@ -13,8 +13,10 @@ export default function Home() {
 
       <div className="bg-gray-100 min-h-screen p-8">
         <div className="bg-white rounded-lg shadow p-6 mx-auto max-w-md">
-          <h1 className="text-3xl font-semibold mb-4">Privacy Policy</h1>
-          <p>Effective Date: [Insert Effective Date]</p>
+          <h1 className="text-3xl font-semibold mb-4">
+            FreHelp Privacy Policy
+          </h1>
+          <p>Effective Date: November 1st 2023</p>
           <p>
             FreHelp is committed to protecting your privacy. This Privacy Policy
             outlines the information we collect, how we use it, and your choices
@@ -40,7 +42,7 @@ export default function Home() {
             1.2 Automatically Collected Information:
             <ul>
               <li>
-                Device information, such as your device's type, model, and
+                Device information, such as your device&apos;s type, model, and
                 operating system.
               </li>
               <li>
@@ -55,14 +57,14 @@ export default function Home() {
           <p>
             We may use the information collected for the following purposes:
             <ul>
-              <li>To provide and maintain our app's services.</li>
+              <li>To provide and maintain our app&apos;s services.</li>
               <li>To personalize your experience within the app.</li>
               <li>
                 To communicate with you, respond to your requests, and provide
                 customer support.
               </li>
               <li>
-                To analyze and improve our app's functionality and user
+                To analyze and improve our app&apos;s functionality and user
                 experience.
               </li>
               <li>To ensure the security and integrity of our app.</li>
@@ -112,7 +114,9 @@ export default function Home() {
             However, no data transmission over the internet or any wireless
             network can be guaranteed to be 100% secure.
           </p>
-          <h2 className="text-xl font-semibold mt-4">6. Children's Privacy</h2>
+          <h2 className="text-xl font-semibold mt-4">
+            6. Children&apos;s Privacy
+          </h2>
           <p>
             Our app is not intended for children under 13 years of age. We do
             not knowingly collect or maintain information from children under 13
